@@ -72,3 +72,7 @@
 | CSS/UI Component | tailwind CSS, shadcn/ui |
 | Package | Recoil, ESLint, Axios |
 | Gem | DeviseTokenAuth, OmniAuth, rubocop |
+
+# 画面遷移図
+
+[https://www.figma.com/design/5IiAkv6LTpxmSh8BHziQXQ/Kijo-no-Kuron?t=EoiluvVxsFCAM4Yu-1](https://www.figma.com/design/5IiAkv6LTpxmSh8BHziQXQ/Kijo-no-Kuron?t=EoiluvVxsFCAM4Yu-1)

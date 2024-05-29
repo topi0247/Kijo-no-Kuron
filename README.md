@@ -76,3 +76,8 @@
 # 画面遷移図
 
 [https://www.figma.com/design/5IiAkv6LTpxmSh8BHziQXQ/Kijo-no-Kuron?t=EoiluvVxsFCAM4Yu-1](https://www.figma.com/design/5IiAkv6LTpxmSh8BHziQXQ/Kijo-no-Kuron?t=EoiluvVxsFCAM4Yu-1)
+
+# ER図
+dbdiragram：https://dbdiagram.io/d/66531c93f84ecd1d22299f76  
+  
+<img src="https://i.gyazo.com/bb41e2b8a0298e53dd13ef81e0737b66.png" width="400px" />
